@@ -1,6 +1,6 @@
 # projet_js
 
-Le but du projet est de créer une application Web (HTML/CSSS + JavaScript) qui consommera l'API REST de commande de bières.
+Le but du projet est de créer une application Web (HTML/CSS + JavaScript) qui consommera l'API REST de commande de bières.
 
 
 Il faut au préalable démarrer le serveur en exécutant la commande :
